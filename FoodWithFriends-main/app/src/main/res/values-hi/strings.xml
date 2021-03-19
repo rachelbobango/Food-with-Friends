@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">दोस्तों के साथ खाना</string>
+    <string name="title_activity_existing_user_splash">उपयोगकर्ता पहले से मौजूद है</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">पहला टुकड़ा</string>
+    <string name="second_fragment_label">दूसरा टुकड़ा</string>
+    <string name="next">आगे</string>
+    <string name="previous">पिछला</string>
+
+    <string name="accept">स्वीकार</string>
+    <string name="decline">अस्वीकारr</string>
+
+
+    <string name="hello_first_fragment">Hello पहला टुकड़</string>
+    <string name="hello_second_fragment">Hello दूसरा टुकड़ा. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello खाली टुकड़ा</string>
+    <string name="title_activity_navigation">नेविगेशन गतिविधि</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="phonenumber">फोन नंबर दर्ज</string>
+    <string name="create_a_new_group">एक नया समूह बनाएं:</string>
+    <string name="group_name">समूह का नाम</string>
+    <string name="group_description">समूह चर्चा</string>
+    <string name="save">डेटा बचाना</string>
+    <string name="browse_groups">समूह ब्राउज़ करें:</string>
+    <string name="home">घर</string>
+    <string name="please_enable_location_services">कृपया स्थान सेवाएँ सक्षम करें</string>
+    <string name="group_name_here">यहाँ समूह का नाम</string>
+    <string name="group_description_here">यहाँ समूह विवरण</string>
+    <string name="join_our_group">हमारे समूह में शामिल हों!</string>
+    <string name="member_name_here">सदस्य का नाम यहाँ</string>
+    <string name="member_gender_here">सदस्य लिंग यहाँ</string>
+    <string name="member_bio_here">सदस्य जैव यहाँ</string>
+    <string name="member_contact_here">सदस्य यहां संपर्क करें</string>
+    <string name="member_image">सदस्य छवि</string>
+    <string name="member_information">सदस्य जानकारी</string>
+    <string name="back_to_groups">वापस समूहों में</string>
+    <string name="delete_group">समूह हटाएं</string>
+    <string name="leave_group">समूह छोड़ दें</string>
+    <string name="upload_photos">तस्वीरें अपलोड करें</string>
+    <string name="add_photo_from_library">पुस्तकालय से फोटो जोड़ें</string>
+    <string name="take_photo_from_camera">कैमरे से फोटो लें</string>
+    <string name="selected_image">चयनित छवि</string>
+    <string name="user_settings">उपयोगकर्ता सेटिंग</string>
+    <string name="name">नाम</string>
+    <string name="user_bio">उपयोगकर्ता जैव</string>
+    <string name="textview">व्याख्यान दर्शन</string>
+    <string name="max_distance">अधिकतम दूरी: </string>
+    <string name="male">पुस्र्ष</string>
+    <string name="female">महिला</string>
+    <string name="save_changes">परिवर्तनों को सुरक्षित करें</string>
+    <string name="delete_account">खाता हटा दो</string>
+    <string name="settings">समायोजन</string>
+    <string name="welcome_to_food_with_friends_please_set_up_your_profile">दोस्तों के साथ फूड में आपका स्वागत है। कृपया अपना प्रोफ़ाइल सेट करें।</string>
+    <string name="your_name">आपका नाम</string>
+    <string name="tell_people_about_yourself">अपने बारे में लोगों को बताएं</string>
+    <string name="gender">लिंग</string>
+    <string name="continue_keyword">जारी रखें</string>
+    <string name="your_groups">आपके समूह</string>
+    <string name="groups">समूहों: </string>
+    <string name="current_locale">hi_IN</string>
+    <string name="group">समूह: </string>
+    <string name="description">विवरण: </string>
+    <string name="contact">संपर्क करें</string>
+    <string name="access_camera_dialog">दोस्तों के साथ भोजन आपके कैमरे तक पहुंचना चाहेगा</string>
+    <string name="access_photos_dialog">दोस्तों के साथ खाना आपकी तस्वीरों तक पहुंचना चाहेगा</string>
+
+
+
+
+
+</resources>

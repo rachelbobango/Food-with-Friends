@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeNavFragment">
+    <fragment
+        android:id="@+id/homeNavFragment"
+        android:name="com.example.foodwithfriends.HomeNavFragment"
+        android:label="fragment_home_nav"
+        tools:layout="@layout/fragment_home_nav" />
+    <fragment
+        android:id="@+id/settingsNavFragment"
+        android:name="com.example.foodwithfriends.settingsNavFragment"
+        android:label="fragment_settings_nav"
+        tools:layout="@layout/fragment_settings_nav" />
+    <fragment
+        android:id="@+id/groupsNavFragment"
+        android:name="com.example.foodwithfriends.GroupsNavFragment"
+        android:label="fragment_groups_nav"
+        tools:layout="@layout/fragment_groups_nav" />
+</navigation>
